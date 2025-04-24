@@ -1,0 +1,10 @@
+flask
+boto3
+python-dotenv
+google-generativeai
+langchain
+faiss-cpu
+sentence-transformers
+langchain-community
+pdf2image
+pytesseract
